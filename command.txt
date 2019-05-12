@@ -1,0 +1,15 @@
+g++ Lab01_Line.cpp -o Lab01_Line -lGL -lGLU -lglut
+./Lab01_Line
+
+g++ Lab02_CollidingCircle.cpp -o Lab02_CollidingCircle -lGL -lGLU -lglut
+./Lab02_CollidingCircle
+
+g++ Lab03_BouncingBall.cpp -o Lab03_BouncingBall -lGL -lGLU -lglut
+./Lab03_BouncingBall
+
+g++ Lab04_CohenSutherland.cpp -o Lab04_CohenSutherland -lGL -lGLU -lglut
+./Lab04_CohenSutherland
+
+g++ Lab05_CyrusBeck.cpp -o Lab05_CyrusBeck -lGL -lGLU -lglut
+./Lab05_CyrusBeck
+
